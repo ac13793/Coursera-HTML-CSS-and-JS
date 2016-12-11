@@ -1,6 +1,6 @@
 ﻿body
 {
-    font-family: "Segoe UI", "Tahoma", "Geneva", "Verdana, sans-serif";
+    font-family: "Comic Sans MS, Segoe UI", "Tahoma", "Geneva", "Verdana, sans-serif";
     font-size: 14px;
     margin: 0;
 }
@@ -13,6 +13,7 @@
     font-size: 1.75em;
     text-align: center;
     margin: 50px 0;
+    font-weight: bold;
 }
 
 #row{

@@ -1,0 +1,39 @@
+#header-nav {
+    background-color: #CACA19;
+}
+
+#chicken-link:hover, #beef-link:hover, #sushi-link:hover {
+    background-color: #E7E8E7;
+}
+
+.navbar-default .navbar-brand {
+    color: #557c3e;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#main-content {
+    background-color: #89FAF9;
+    height: 1000px;
+    overflow: hidden;
+}
+
+#headerText {
+    font-size: 1.75em;
+    text-align: center;
+    padding: 30px 0;
+    font-weight: bold;
+    background-color: #45B8CF;
+}
+
+.sectionTitle {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    font-size: 1.5em;
+    position: relative;
+}
+
+.chickenTitle {
+    color: #E5651C;
+}
